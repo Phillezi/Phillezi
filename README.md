@@ -1,7 +1,7 @@
-| GitHub Stats | Top Languages | GitHub Streak |
+<!--| GitHub Stats | Top Languages | GitHub Streak |
 |--------------|---------------|---------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phillezi&show_icons=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phillezi&layout=compact&theme=dark) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phillezi&theme=dark) |
-
+-->
 ### About Me
 - 🎓 Computer Engineering student at [KTH, Royal Institute of Technology](https://www.kth.se/en).
 - 📍 Stockholm, Sweden.
