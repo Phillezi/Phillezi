@@ -2,7 +2,7 @@
 - 🎓 Computer Engineering student at [KTH, Royal Institute of Technology](https://www.kth.se/en).
 - 📍 Stockholm, Sweden.
 
-📬 Feel free to reach out to me via [email](mailto:philip.zingmark@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/philip-zingmark/).
+📬 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/philip-zingmark/).
 
 <div align="center">
 
